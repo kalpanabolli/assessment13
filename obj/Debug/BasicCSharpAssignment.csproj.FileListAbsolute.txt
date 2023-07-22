@@ -1,0 +1,8 @@
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe.config
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.pdb
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.AssemblyReference.cache
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.exe
+D:\Simply Learn\SaturdayAssessments\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.pdb
